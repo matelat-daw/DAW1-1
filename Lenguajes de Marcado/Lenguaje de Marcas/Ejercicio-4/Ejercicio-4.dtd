@@ -1,0 +1,7 @@
+<!ELEMENT catalogo (libro+)>
+<!ELEMENT libro (titulo,autores)>
+<!ATTLIST libro isbn NMTOKEN #REQUIRED>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autores (autor+)>
+<!ELEMENT autor (#PCDATA)>
+<!ATTLIST autor nacimiento NMTOKEN #REQUIRED>

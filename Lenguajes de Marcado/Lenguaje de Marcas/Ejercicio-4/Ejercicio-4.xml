@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalogo SYSTEM "Ejercicio-4.dtd">
 <catalogo>
 <libro isbn="i1">
 <titulo>Don Quijote</titulo>
