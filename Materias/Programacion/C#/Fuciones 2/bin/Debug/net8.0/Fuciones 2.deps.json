@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fuciones 2/1.0.0": {
+        "runtime": {
+          "Fuciones 2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fuciones 2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

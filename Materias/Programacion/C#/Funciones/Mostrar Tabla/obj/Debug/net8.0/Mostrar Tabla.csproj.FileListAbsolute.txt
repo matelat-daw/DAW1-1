@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Programacion\C#\Funciones\Mostrar Tabla\bin\Debug\net8.0\Mostrar Tabla.exe
+C:\xampp\htdocs\Programacion\C#\Funciones\Mostrar Tabla\bin\Debug\net8.0\Mostrar Tabla.deps.json
+C:\xampp\htdocs\Programacion\C#\Funciones\Mostrar Tabla\bin\Debug\net8.0\Mostrar Tabla.runtimeconfig.json
+C:\xampp\htdocs\Programacion\C#\Funciones\Mostrar Tabla\bin\Debug\net8.0\Mostrar Tabla.dll
+C:\xampp\htdocs\Programacion\C#\Funciones\Mostrar Tabla\bin\Debug\net8.0\Mostrar Tabla.pdb
+C:\xampp\htdocs\Programacion\C#\Funciones\Mostrar Tabla\obj\Debug\net8.0\Mostrar Tabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Programacion\C#\Funciones\Mostrar Tabla\obj\Debug\net8.0\Mostrar Tabla.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Programacion\C#\Funciones\Mostrar Tabla\obj\Debug\net8.0\Mostrar Tabla.AssemblyInfo.cs
+C:\xampp\htdocs\Programacion\C#\Funciones\Mostrar Tabla\obj\Debug\net8.0\Mostrar Tabla.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Programacion\C#\Funciones\Mostrar Tabla\obj\Debug\net8.0\Mostrar Tabla.sourcelink.json
+C:\xampp\htdocs\Programacion\C#\Funciones\Mostrar Tabla\obj\Debug\net8.0\Mostrar Tabla.dll
+C:\xampp\htdocs\Programacion\C#\Funciones\Mostrar Tabla\obj\Debug\net8.0\refint\Mostrar Tabla.dll
+C:\xampp\htdocs\Programacion\C#\Funciones\Mostrar Tabla\obj\Debug\net8.0\Mostrar Tabla.pdb
+C:\xampp\htdocs\Programacion\C#\Funciones\Mostrar Tabla\obj\Debug\net8.0\Mostrar Tabla.genruntimeconfig.cache
+C:\xampp\htdocs\Programacion\C#\Funciones\Mostrar Tabla\obj\Debug\net8.0\ref\Mostrar Tabla.dll

@@ -1,0 +1,14 @@
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Excepciones\Chess Board\bin\Debug\net8.0\Chess Board.exe
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Excepciones\Chess Board\bin\Debug\net8.0\Chess Board.deps.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Excepciones\Chess Board\bin\Debug\net8.0\Chess Board.runtimeconfig.json
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Excepciones\Chess Board\bin\Debug\net8.0\Chess Board.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Excepciones\Chess Board\bin\Debug\net8.0\Chess Board.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Excepciones\Chess Board\obj\Debug\net8.0\Chess Board.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Excepciones\Chess Board\obj\Debug\net8.0\Chess Board.AssemblyInfoInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Excepciones\Chess Board\obj\Debug\net8.0\Chess Board.AssemblyInfo.cs
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Excepciones\Chess Board\obj\Debug\net8.0\Chess Board.csproj.CoreCompileInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Excepciones\Chess Board\obj\Debug\net8.0\Chess Board.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Excepciones\Chess Board\obj\Debug\net8.0\refint\Chess Board.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Excepciones\Chess Board\obj\Debug\net8.0\Chess Board.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Excepciones\Chess Board\obj\Debug\net8.0\Chess Board.genruntimeconfig.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Entornos de Desarrollo\C#\Excepciones\Chess Board\obj\Debug\net8.0\ref\Chess Board.dll

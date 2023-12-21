@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Programacion\C#\Funciones\Funcion 1\bin\Debug\net8.0\Funcion 1.exe
+C:\xampp\htdocs\Programacion\C#\Funciones\Funcion 1\bin\Debug\net8.0\Funcion 1.deps.json
+C:\xampp\htdocs\Programacion\C#\Funciones\Funcion 1\bin\Debug\net8.0\Funcion 1.runtimeconfig.json
+C:\xampp\htdocs\Programacion\C#\Funciones\Funcion 1\bin\Debug\net8.0\Funcion 1.dll
+C:\xampp\htdocs\Programacion\C#\Funciones\Funcion 1\bin\Debug\net8.0\Funcion 1.pdb
+C:\xampp\htdocs\Programacion\C#\Funciones\Funcion 1\obj\Debug\net8.0\Funcion 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Programacion\C#\Funciones\Funcion 1\obj\Debug\net8.0\Funcion 1.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Programacion\C#\Funciones\Funcion 1\obj\Debug\net8.0\Funcion 1.AssemblyInfo.cs
+C:\xampp\htdocs\Programacion\C#\Funciones\Funcion 1\obj\Debug\net8.0\Funcion 1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Programacion\C#\Funciones\Funcion 1\obj\Debug\net8.0\Funcion 1.sourcelink.json
+C:\xampp\htdocs\Programacion\C#\Funciones\Funcion 1\obj\Debug\net8.0\Funcion 1.dll
+C:\xampp\htdocs\Programacion\C#\Funciones\Funcion 1\obj\Debug\net8.0\refint\Funcion 1.dll
+C:\xampp\htdocs\Programacion\C#\Funciones\Funcion 1\obj\Debug\net8.0\Funcion 1.pdb
+C:\xampp\htdocs\Programacion\C#\Funciones\Funcion 1\obj\Debug\net8.0\Funcion 1.genruntimeconfig.cache
+C:\xampp\htdocs\Programacion\C#\Funciones\Funcion 1\obj\Debug\net8.0\ref\Funcion 1.dll

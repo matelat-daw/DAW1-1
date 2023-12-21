@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Examen ETS\bin\Debug\net8.0\Examen ETS.exe
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Examen ETS\bin\Debug\net8.0\Examen ETS.deps.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Examen ETS\bin\Debug\net8.0\Examen ETS.runtimeconfig.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Examen ETS\bin\Debug\net8.0\Examen ETS.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Examen ETS\bin\Debug\net8.0\Examen ETS.pdb
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Examen ETS\obj\Debug\net8.0\Examen ETS.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Examen ETS\obj\Debug\net8.0\Examen ETS.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Examen ETS\obj\Debug\net8.0\Examen ETS.AssemblyInfo.cs
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Examen ETS\obj\Debug\net8.0\Examen ETS.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Examen ETS\obj\Debug\net8.0\Examen ETS.sourcelink.json
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Examen ETS\obj\Debug\net8.0\Examen ETS.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Examen ETS\obj\Debug\net8.0\refint\Examen ETS.dll
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Examen ETS\obj\Debug\net8.0\Examen ETS.pdb
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Examen ETS\obj\Debug\net8.0\Examen ETS.genruntimeconfig.cache
+C:\xampp\htdocs\Entornos de Desarrollo\C#\Examen ETS\obj\Debug\net8.0\ref\Examen ETS.dll

@@ -1,0 +1,19 @@
+﻿1-.
+
+//pelicula/@titulo[//director[@pais_nacimiento != "EEUU"]]
+
+2-.
+
+//director[@nombre=//pelicula[@titulo = "El truco final"]/director]/@fecha_nacimiento | //director[@nombre=//pelicula[@titulo = "El truco final"]/director]/@pais_nacimiento
+
+3-.
+
+//pelicula[estreno>2000 and compositor=//compositor[@pais_nacimiento="Alemania"]/@nombre]/titulo
+
+4-.
+
+//pelicula[compositor=//compositor[@pais_nacimiento="Alemania"]/@nombre and //director[@pais_nacimiento="UK"]/@nombre]/titulo
+
+5-.
+
+count(//pelicula[director = //director[@fecha_nacimiento > 1950 and @fecha_nacimiento < 1980]/@nombre])

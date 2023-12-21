@@ -1,0 +1,4 @@
+-- Selección uniendo tablas
+
+SELECT num, nombre FROM empleados UNION SELECT clie, nombre FROM clientes;
+

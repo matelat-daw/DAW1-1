@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Album>
+  <disco>
+    <titulo>A todo sí</titulo>
+    <artista>Malu</artista>
+    <musica>pop</musica>
+    <fecha>
+      <dia>5 </dia>
+      <mes>abril </mes>
+      <año>2023</año>
+    </fecha>
+    <discografica>Sony Music</discografica>
+    <cancion>Ausente</cancion>
+    <cancion>Diles</cancion>
+    <cancion>.El apagón</cancion>
+    <cancion>Blanco y negro</cancion>
+  </disco>
+  <disco>
+    <titulo>Hackney Diamond</titulo>
+    <artista>The Rolling Stones</artista>
+    <musica>rock</musica>
+    <fecha>
+      <dia>8 </dia>
+      <mes>febrero </mes>
+      <año>2023</año>
+    </fecha>
+    <discografica>Geffen Records</discografica>
+    <cancion>Angry</cancion>
+    <cancion>Get close</cancion>
+    <cancion>.Depending on you</cancion>
+  </disco>
+  <disco>
+    <titulo>Synchronicity</titulo>
+    <artista>The Police</artista>
+    <musica>pop-rock</musica>
+    <fecha>
+      <dia>15 </dia>
+      <mes>mayo </mes>
+      <año>1983</año>
+    </fecha>
+    <discografica>A y M Records</discografica>
+    <cancion>Synchronicity I</cancion>
+    <cancion>Oh My God</cancion>
+    <cancion>Mother</cancion>
+    <cancion>Miss Gradenko</cancion>
+    <cancion>Synchronicity II</cancion>
+    <cancion>Every Breath You Take</cancion>
+  </disco>
+  <disco>
+    <titulo>The Rise And Fall Of Ziggy Stardust</titulo>
+    <artista>David Bowie</artista>
+    <musica>pop-rock</musica>
+    <fecha>
+      <dia>6 </dia>
+      <mes>marzo </mes>
+      <año>1972</año>
+    </fecha>
+    <cancion>Five years</cancion>
+  </disco>
+</Album>

@@ -1,0 +1,14 @@
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Recursividad\bin\Debug\net8.0\Recursividad.exe
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Recursividad\bin\Debug\net8.0\Recursividad.deps.json
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Recursividad\bin\Debug\net8.0\Recursividad.runtimeconfig.json
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Recursividad\bin\Debug\net8.0\Recursividad.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Recursividad\bin\Debug\net8.0\Recursividad.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Recursividad\obj\Debug\net8.0\Recursividad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Recursividad\obj\Debug\net8.0\Recursividad.AssemblyInfoInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Recursividad\obj\Debug\net8.0\Recursividad.AssemblyInfo.cs
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Recursividad\obj\Debug\net8.0\Recursividad.csproj.CoreCompileInputs.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Recursividad\obj\Debug\net8.0\Recursividad.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Recursividad\obj\Debug\net8.0\refint\Recursividad.dll
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Recursividad\obj\Debug\net8.0\Recursividad.pdb
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Recursividad\obj\Debug\net8.0\Recursividad.genruntimeconfig.cache
+C:\Users\Orion\Documents\César Manrique\DAW\Programacion\C#\Recursividad\obj\Debug\net8.0\ref\Recursividad.dll

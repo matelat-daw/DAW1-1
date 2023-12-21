@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Programacion\C#\Funciones\Encuentra Caracter\bin\Debug\net8.0\Encuentra Caracter.exe
+C:\xampp\htdocs\Programacion\C#\Funciones\Encuentra Caracter\bin\Debug\net8.0\Encuentra Caracter.deps.json
+C:\xampp\htdocs\Programacion\C#\Funciones\Encuentra Caracter\bin\Debug\net8.0\Encuentra Caracter.runtimeconfig.json
+C:\xampp\htdocs\Programacion\C#\Funciones\Encuentra Caracter\bin\Debug\net8.0\Encuentra Caracter.dll
+C:\xampp\htdocs\Programacion\C#\Funciones\Encuentra Caracter\bin\Debug\net8.0\Encuentra Caracter.pdb
+C:\xampp\htdocs\Programacion\C#\Funciones\Encuentra Caracter\obj\Debug\net8.0\Encuentra Caracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Programacion\C#\Funciones\Encuentra Caracter\obj\Debug\net8.0\Encuentra Caracter.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Programacion\C#\Funciones\Encuentra Caracter\obj\Debug\net8.0\Encuentra Caracter.AssemblyInfo.cs
+C:\xampp\htdocs\Programacion\C#\Funciones\Encuentra Caracter\obj\Debug\net8.0\Encuentra Caracter.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Programacion\C#\Funciones\Encuentra Caracter\obj\Debug\net8.0\Encuentra Caracter.sourcelink.json
+C:\xampp\htdocs\Programacion\C#\Funciones\Encuentra Caracter\obj\Debug\net8.0\Encuentra Caracter.dll
+C:\xampp\htdocs\Programacion\C#\Funciones\Encuentra Caracter\obj\Debug\net8.0\refint\Encuentra Caracter.dll
+C:\xampp\htdocs\Programacion\C#\Funciones\Encuentra Caracter\obj\Debug\net8.0\Encuentra Caracter.pdb
+C:\xampp\htdocs\Programacion\C#\Funciones\Encuentra Caracter\obj\Debug\net8.0\Encuentra Caracter.genruntimeconfig.cache
+C:\xampp\htdocs\Programacion\C#\Funciones\Encuentra Caracter\obj\Debug\net8.0\ref\Encuentra Caracter.dll

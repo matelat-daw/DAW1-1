@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Programacion\C#\Funciones\Encript-Decript\bin\Debug\net8.0\Encript-Decript.exe
+C:\xampp\htdocs\Programacion\C#\Funciones\Encript-Decript\bin\Debug\net8.0\Encript-Decript.deps.json
+C:\xampp\htdocs\Programacion\C#\Funciones\Encript-Decript\bin\Debug\net8.0\Encript-Decript.runtimeconfig.json
+C:\xampp\htdocs\Programacion\C#\Funciones\Encript-Decript\bin\Debug\net8.0\Encript-Decript.dll
+C:\xampp\htdocs\Programacion\C#\Funciones\Encript-Decript\bin\Debug\net8.0\Encript-Decript.pdb
+C:\xampp\htdocs\Programacion\C#\Funciones\Encript-Decript\obj\Debug\net8.0\Encript-Decript.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Programacion\C#\Funciones\Encript-Decript\obj\Debug\net8.0\Encript-Decript.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Programacion\C#\Funciones\Encript-Decript\obj\Debug\net8.0\Encript-Decript.AssemblyInfo.cs
+C:\xampp\htdocs\Programacion\C#\Funciones\Encript-Decript\obj\Debug\net8.0\Encript-Decript.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Programacion\C#\Funciones\Encript-Decript\obj\Debug\net8.0\Encript-Decript.sourcelink.json
+C:\xampp\htdocs\Programacion\C#\Funciones\Encript-Decript\obj\Debug\net8.0\Encript-Decript.dll
+C:\xampp\htdocs\Programacion\C#\Funciones\Encript-Decript\obj\Debug\net8.0\refint\Encript-Decript.dll
+C:\xampp\htdocs\Programacion\C#\Funciones\Encript-Decript\obj\Debug\net8.0\Encript-Decript.pdb
+C:\xampp\htdocs\Programacion\C#\Funciones\Encript-Decript\obj\Debug\net8.0\Encript-Decript.genruntimeconfig.cache
+C:\xampp\htdocs\Programacion\C#\Funciones\Encript-Decript\obj\Debug\net8.0\ref\Encript-Decript.dll

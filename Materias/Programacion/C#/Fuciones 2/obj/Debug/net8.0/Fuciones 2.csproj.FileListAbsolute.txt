@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Programacion\C#\Fuciones 2\bin\Debug\net8.0\Fuciones 2.exe
+C:\xampp\htdocs\Programacion\C#\Fuciones 2\bin\Debug\net8.0\Fuciones 2.deps.json
+C:\xampp\htdocs\Programacion\C#\Fuciones 2\bin\Debug\net8.0\Fuciones 2.runtimeconfig.json
+C:\xampp\htdocs\Programacion\C#\Fuciones 2\bin\Debug\net8.0\Fuciones 2.dll
+C:\xampp\htdocs\Programacion\C#\Fuciones 2\bin\Debug\net8.0\Fuciones 2.pdb
+C:\xampp\htdocs\Programacion\C#\Fuciones 2\obj\Debug\net8.0\Fuciones 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Programacion\C#\Fuciones 2\obj\Debug\net8.0\Fuciones 2.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Programacion\C#\Fuciones 2\obj\Debug\net8.0\Fuciones 2.AssemblyInfo.cs
+C:\xampp\htdocs\Programacion\C#\Fuciones 2\obj\Debug\net8.0\Fuciones 2.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Programacion\C#\Fuciones 2\obj\Debug\net8.0\Fuciones 2.sourcelink.json
+C:\xampp\htdocs\Programacion\C#\Fuciones 2\obj\Debug\net8.0\Fuciones 2.dll
+C:\xampp\htdocs\Programacion\C#\Fuciones 2\obj\Debug\net8.0\refint\Fuciones 2.dll
+C:\xampp\htdocs\Programacion\C#\Fuciones 2\obj\Debug\net8.0\Fuciones 2.pdb
+C:\xampp\htdocs\Programacion\C#\Fuciones 2\obj\Debug\net8.0\Fuciones 2.genruntimeconfig.cache
+C:\xampp\htdocs\Programacion\C#\Fuciones 2\obj\Debug\net8.0\ref\Fuciones 2.dll

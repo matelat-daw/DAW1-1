@@ -1,0 +1,59 @@
+                //switch (coord) // Hago un switch a la Coordenada.
+                //{
+                //    case "D3": // Aquí tengo solo las Coordenadas Donde Están Ubicados los dos Barcos.
+                //        if (!d3)
+                //        {
+                //            d3 = true;
+                //            agua[2, 3] = '*'; // Si Introduce Alguna de las Coordenadas, Dibujo un Asterisco en la Casilla que Ocupa el Barco.
+                //            cont[0]++; // Incremento el Contador de Barco 1 Tocado.
+                //        }
+                //        break;
+                //    case "D4":
+                //        if (!d4)
+                //        {
+                //            d4 = true;
+                //            agua[3, 3] = '*';
+                //            cont[0]++;
+                //        }
+                //        break;
+                //    case "D5":
+                //        if (!d5)
+                //        {
+                //            d5 = true;
+                //            agua[4, 3] = '*';
+                //            cont[0]++;
+                //        }
+                //        break;
+                //    case "D6":
+                //        if (!d6)
+                //        {
+                //            d6 = true;
+                //            agua[5, 3] = '*';
+                //            cont[0]++;
+                //        }
+                //        break;
+                //    case "G8":
+                //        if (!g8)
+                //        {
+                //            g8 = true;
+                //            agua[7, 6] = '*';
+                //            cont[1]++; // Aquí Incremento el Contador de Barco 2 Tocado.
+                //        }
+                //        break;
+                //    case "H8":
+                //        if (!h8)
+                //        {
+                //            h8 = true;
+                //            agua[7, 7] = '*';
+                //            cont[1]++;
+                //        }
+                //        break;
+                //    case "I8":
+                //        if (!i8)
+                //        {
+                //            i8 = true;
+                //            agua[7, 8] = '*';
+                //            cont[1]++;
+                //        }
+                //        break;
+                //}

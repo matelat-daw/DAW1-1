@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Programacion\C#\Show Numbers\bin\Debug\net8.0\Show Numbers.exe
+C:\xampp\htdocs\Programacion\C#\Show Numbers\bin\Debug\net8.0\Show Numbers.deps.json
+C:\xampp\htdocs\Programacion\C#\Show Numbers\bin\Debug\net8.0\Show Numbers.runtimeconfig.json
+C:\xampp\htdocs\Programacion\C#\Show Numbers\bin\Debug\net8.0\Show Numbers.dll
+C:\xampp\htdocs\Programacion\C#\Show Numbers\bin\Debug\net8.0\Show Numbers.pdb
+C:\xampp\htdocs\Programacion\C#\Show Numbers\obj\Debug\net8.0\Show Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Programacion\C#\Show Numbers\obj\Debug\net8.0\Show Numbers.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Programacion\C#\Show Numbers\obj\Debug\net8.0\Show Numbers.AssemblyInfo.cs
+C:\xampp\htdocs\Programacion\C#\Show Numbers\obj\Debug\net8.0\Show Numbers.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Programacion\C#\Show Numbers\obj\Debug\net8.0\Show Numbers.sourcelink.json
+C:\xampp\htdocs\Programacion\C#\Show Numbers\obj\Debug\net8.0\Show Numbers.dll
+C:\xampp\htdocs\Programacion\C#\Show Numbers\obj\Debug\net8.0\refint\Show Numbers.dll
+C:\xampp\htdocs\Programacion\C#\Show Numbers\obj\Debug\net8.0\Show Numbers.pdb
+C:\xampp\htdocs\Programacion\C#\Show Numbers\obj\Debug\net8.0\Show Numbers.genruntimeconfig.cache
+C:\xampp\htdocs\Programacion\C#\Show Numbers\obj\Debug\net8.0\ref\Show Numbers.dll

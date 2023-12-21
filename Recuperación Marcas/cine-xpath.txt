@@ -1,0 +1,30 @@
+1. 
+directores no nacidos en EEUU: //director[@pais_nacimiento != "EEUU"]
+
+//pelicula/titulo[//director/@pais_nacimiento[not(EEUU)]]
+
+
+2. 
+//pelicula[@titulo = "El truco final"]/director
+
+//director[@nombre=//pelicula[@titulo = "El truco final"]/director]/@fecha_nacimiento
+//director[@nombre=//pelicula[@titulo = "El truco final"]/director]/@pais_nacimiento 
+
+No me sale unirlos, si por separado
+
+3. 
+compositor alemán: compositor=//compositor[@pais_nacimiento="Alemania"]/@nombre
+
+//pelicula[estreno>2000 and compositor=//compositor[@pais_nacimiento="Alemania"]/@nombre]/@titulo
+
+
+4. 
+director de pelicula ingles: //director[@pais_nacimiento="UK"]/@nombre
+
+//pelicula[compositor=//compositor[@pais_nacimiento="Alemania"]/@nombre and //director[@pais_nacimiento="UK"]/@nombre]/titulo
+
+
+5. 
+directores nacidos entre 1950 y 1980: //director[@fecha_nacimiento > 1950 and @fecha_nacimiento < 1980]/@nombre
+
+count(//pelicula[director = //director[@fecha_nacimiento > 1950 and @fecha_nacimiento < 1980]/@nombre])

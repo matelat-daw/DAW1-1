@@ -1,0 +1,15 @@
+C:\xampp\htdocs\Programacion\C#\Concatenar Arrays\bin\Debug\net8.0\Concatenar Arrays.exe
+C:\xampp\htdocs\Programacion\C#\Concatenar Arrays\bin\Debug\net8.0\Concatenar Arrays.deps.json
+C:\xampp\htdocs\Programacion\C#\Concatenar Arrays\bin\Debug\net8.0\Concatenar Arrays.runtimeconfig.json
+C:\xampp\htdocs\Programacion\C#\Concatenar Arrays\bin\Debug\net8.0\Concatenar Arrays.dll
+C:\xampp\htdocs\Programacion\C#\Concatenar Arrays\bin\Debug\net8.0\Concatenar Arrays.pdb
+C:\xampp\htdocs\Programacion\C#\Concatenar Arrays\obj\Debug\net8.0\Concatenar Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\Programacion\C#\Concatenar Arrays\obj\Debug\net8.0\Concatenar Arrays.AssemblyInfoInputs.cache
+C:\xampp\htdocs\Programacion\C#\Concatenar Arrays\obj\Debug\net8.0\Concatenar Arrays.AssemblyInfo.cs
+C:\xampp\htdocs\Programacion\C#\Concatenar Arrays\obj\Debug\net8.0\Concatenar Arrays.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Programacion\C#\Concatenar Arrays\obj\Debug\net8.0\Concatenar Arrays.sourcelink.json
+C:\xampp\htdocs\Programacion\C#\Concatenar Arrays\obj\Debug\net8.0\Concatenar Arrays.dll
+C:\xampp\htdocs\Programacion\C#\Concatenar Arrays\obj\Debug\net8.0\refint\Concatenar Arrays.dll
+C:\xampp\htdocs\Programacion\C#\Concatenar Arrays\obj\Debug\net8.0\Concatenar Arrays.pdb
+C:\xampp\htdocs\Programacion\C#\Concatenar Arrays\obj\Debug\net8.0\Concatenar Arrays.genruntimeconfig.cache
+C:\xampp\htdocs\Programacion\C#\Concatenar Arrays\obj\Debug\net8.0\ref\Concatenar Arrays.dll
